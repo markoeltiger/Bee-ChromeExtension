@@ -2,7 +2,7 @@
   "name": "Bee - CopounFinder",
   "version": "1.0.1",
   "description": "Best Copoun Finder",
-  "permissions": ["activeTab", "tabs"],
+  "permissions": ["activeTab"],
   "host_permissions": ["*://*/*"],
   "background": {
     "service_worker": "firebase.js"
